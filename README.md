@@ -7,7 +7,7 @@
 
 ## 📁 Просмотр дашборда
 
-- **Скриншоты:** см. папку `screenshots/`
+- **Скриншоты:** папка `screenshots/`
 - **Интерактивная версия (Power BI Service):** https://app.powerbi.com/groups/me/reports/62d258e4-c387-4795-9645-c8d2cc4f7ba2/f0fba0701485ba38963c?experience=power-bi
 - **Файл отчёта:** `dashboard/Tender_Dashboard.pbix`
 
